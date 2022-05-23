@@ -18,5 +18,7 @@ void main(List<String> arguments) {
   sexo= stdin.readLineSync();
 
  print("digite su sexo");
+ //esta seccion no aparece 
+ print("su nombre es :$nombre");
   
 }
