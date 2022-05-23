@@ -20,5 +20,7 @@ void main(List<String> arguments) {
  print("digite su sexo");
  //esta seccion no aparece 
  print("su nombre es :$nombre");
+ //esta seccion no esta
+ print("susexo es :$sexo")
   
 }
